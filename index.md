@@ -2,5 +2,4 @@
 ### This is H3
 ###### This is H6
 
-
-Tested out different titles
+![Image of Yaktocat]((https://octodex.github.com/images/yaktocat.png))
