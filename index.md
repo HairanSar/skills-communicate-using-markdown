@@ -7,3 +7,7 @@
 ```javascript
 var Sar = "Moon!";
 ```
+
+- [ ] Learn GitHub
+- [ ] Move portfolio
+- [ ] Upload practice game
